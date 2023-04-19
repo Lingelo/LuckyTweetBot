@@ -1,0 +1,15 @@
+{
+  "name": "bot-twitter-concours",
+  "version": "1.0.0",
+  "description": "Bot Twitter pour participer aux concours",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Votre nom",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twit": "^2.2.11",
+    "winston": "^3.8.2"
+  }
+}
